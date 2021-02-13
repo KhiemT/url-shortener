@@ -5,4 +5,4 @@ Setup enviroment required:
 2. JDK 8
 <br>
 
-Reference to http://tdkhiem.com/2017/06/22/creating-a-url-shortener-with-spring-restful-and-postgresql/
+Reference to https://tdkhiem.com/asymmetric-encryption-by-java-cryptography/
